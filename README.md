@@ -5,9 +5,6 @@
 
 <br>
 
-![https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools/network/members](https://img.shields.io/github/forks/hhhrrrttt222111/Ethical-Hacking-Tools?color=green) &nbsp;
-![https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools/stargazers](https://img.shields.io/github/stars/hhhrrrttt222111/Ethical-Hacking-Tools?color=red) &nbsp;
-![https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools/watchers](https://img.shields.io/github/watchers/hhhrrrttt222111/Ethical-Hacking-Tools?color=yellow) &nbsp;
 
 ### Show some :green_heart: and :star: the Repo to SUPPORT 
 <br>

@@ -10,7 +10,7 @@
 <br>
 
 ## DOWNLOAD
-### [Kali Linux](https://www.kali.org/downloads/) &nbsp; &nbsp; :dragon:   <br>
+### [Kali Linux](https://www.kali.org/downloads/) &nbsp; &nbsp; :dragon:  <br>
 ### [Parrot OS](https://parrotsec.org/download/) &nbsp;&nbsp; :parrot:   <br>
 ### [Remnux](https://remnux.org/#distro) &nbsp;&nbsp; :bee:
 ### [bWAPP](https://sourceforge.net/projects/bwapp/files/bee-box/) &nbsp;&nbsp; :computer:
